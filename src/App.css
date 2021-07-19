@@ -8,6 +8,12 @@ iframe { margin: auto; }
 
 .usernames{
     color:white;
+    border:white solid 1px;
+    height: 40px;
+    width: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #wrapper{
